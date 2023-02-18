@@ -1,0 +1,71 @@
+{
+  "name": "BOTMS",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "firebase": "^7.21.1",
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "react-navigation": "^4.3.9",
+    "react-navigation-stack": "^2.8.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.12.3",
+    "@babel/runtime": "7.12.5",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "26.3.0",
+    "eslint": "7.8.1",
+    "jest": "26.4.2",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
+
+ {
+  "project_info": {
+    "project_number": "682414415574",
+    "project_id": "botms-e0d14",
+    "storage_bucket": "botms-e0d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682414415574:android:4f4d21d3b8d7e48204b377",
+        "android_client_info": {
+          "package_name": "com.khu.BOTMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682414415574-3h92h3r75uaseek3ondb7rqm5l0tfva7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZTE1D0iSoRUj8KRCVnWIug3Z48JxhUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682414415574-3h92h3r75uaseek3ondb7rqm5l0tfva7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
